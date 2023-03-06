@@ -22,3 +22,5 @@ flowstream_worker           : fork
 
 // Flow directory
 // directory                   : /absolute/path/to/flow/database/
+
+default_port : __PORT__
